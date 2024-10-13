@@ -1,0 +1,9 @@
+Map objects:
+MCP_HND_ParkingBay
+MCP_HND_ParkingMeter
+
+Kits:
+MCP_ParkingBay_Kit
+MCP_ParkingBay
+MCP_ParkingMeter_Kit
+MCP_ParkingMeter
