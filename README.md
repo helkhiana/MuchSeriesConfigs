@@ -1,4 +1,4 @@
-# MuchSeriesConfigs
+# MuchSeriesExtras
 
 This repository contains all configs, types and item lists for all Much Series mods by Helkhiana.
 
